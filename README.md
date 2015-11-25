@@ -7,4 +7,6 @@ Brian Here, This is my first repository and so far I am happy this is happening.
 
 Learning about branches and how to create them and merge.
 
-#2 Learning to merge a master branch with a another branch. 
+#2 Learning to merge a master branch with a another branch. // included this text in branch two.
+
+Text inside branch #2
